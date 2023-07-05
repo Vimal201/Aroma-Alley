@@ -1,8 +1,8 @@
 ## Aroma Alley ##
 
-**Aroma Alley** - a blog for Coffee lovers only!
+Aroma Alley - a blog for Coffee lovers only!
 
-A members only blog for coffee lovers built in **PHP**, **MySQL**, frontend supported by **Bootstrap**,**HTML**,**JavaScript** and **AJAX**. New users can be registered by using **Register** form and will be authenticated using **MySQL** in phpmyadmin console of **WAMP** server. The user passwords are encrypted using **BCRYPT** method. 
+A members only blog for coffee lovers built in PHP, MySQL, frontend supported by Bootstrap, HTML, JavaScript and AJAX. New users can be registered by using Registeration form and will be authenticated using MySQL in phpmyadmin console of WAMP server. The user passwords are encrypted using BCRYPT method. 
 
 
 Home Page - 
